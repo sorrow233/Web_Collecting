@@ -4,7 +4,7 @@
   
 [菜鸟-MarkDown语法](https://www.runoob.com/markdown/md-link.html)：很全面的教程，虽然平常使用Typora，但有空系统阅读一遍
   
-[Swift中文文档](https://github.com/CocoaChina-editors/Welcome-to-Swift)  
+[Swift中文文档](https://swiftgg.gitbook.io/swift/swift-jiao-cheng/01_the_basics)  
   
 [计算机网络](https://lfool.gitbook.io/computer-network/di-yi-zhang-wang-luo-ji-chu-zhi-shi)  
 
