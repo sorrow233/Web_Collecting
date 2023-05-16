@@ -3,3 +3,20 @@
 [WEB安全学习](https://websec.readthedocs.io/zh/latest/index.html)：  很喜欢的文档方式，左边目录，右边内容，尽快系统学习  
   
 [菜鸟-MarkDown语法](https://www.runoob.com/markdown/md-link.html)：很全面的教程，虽然平常使用Typora，但有空系统阅读一遍
+  
+[Swift中文文档](https://github.com/CocoaChina-editors/Welcome-to-Swift)  
+  
+[计算机网络](https://lfool.gitbook.io/computer-network/di-yi-zhang-wang-luo-ji-chu-zhi-shi)  
+
+[计算机知识](https://lfool.gitbook.io/compiling-principle/)  
+  
+[编译原理](https://lfool.gitbook.io/compiling-principle/)  
+  
+[数据结构](https://lfool.gitbook.io/compiling-principle/)  
+  
+[]()  
+    
+[]()  
+  
+[]()  
+  
