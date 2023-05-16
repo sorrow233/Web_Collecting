@@ -22,7 +22,7 @@
 
 <br>
 
-### 一些需要一定时间去学习：一天至一周
+### 需要一定时间去学习：一天至一周
 [计算机网络](https://lfool.gitbook.io/computer-network/di-yi-zhang-wang-luo-ji-chu-zhi-shi)  
 
 [计算机知识](https://lfool.gitbook.io/compiling-principle/)  
