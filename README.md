@@ -1,5 +1,4 @@
-# web_collecting
-收集一些教程、学习文档、指南类网页  
+# 收集一些教程、学习文档、指南类网页  
 
 [WEB安全学习](https://websec.readthedocs.io/zh/latest/index.html)：  最喜欢的文档方式，左边目录，右边内容，尽快系统学习  
   
