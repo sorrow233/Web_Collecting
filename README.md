@@ -50,7 +50,7 @@
 
 [JavaScript文档](https://zh.javascript.info)  ^_^很优雅的网页设计
 
-[薄冰英语语法](https://oldwestenglish.github.io/grammar/#/)  
+[薄冰英语语法](https://oldwestenglish.github.io/grammar/#/)  (*^_^*)超全面的英语语法，网页很优雅
 
 [I WANT TO LEARN JAPANESE!](https://www.tofugu.com/learn-japanese/)  
 
