@@ -1,8 +1,8 @@
 ## 关键词：教程、学习文档、指南
 
-不超过20个链接，目前有15个Web资源
-
-学完一个资源之后在后面标注Done再添加新资源，目前零已完成
+01 不超过20个链接，目前有16个Web资源  
+02 学完一个资源之后在后面标注Done再添加新资源，目前零已完成  
+03 为了保证收藏的质量，如果一个网页超过15天没打开，那么删除该网页，目前零删除  
 
 <br>
 
@@ -18,9 +18,9 @@
 
 [编程书籍推荐Web](https://javaguide.cn/books/cs-basics.html#操作系统)  
 
-[IT项目网：上面很多开源项目，主页Python小项目很多](https://www.itprojects.cn)  
+[IT项目网](https://www.itprojects.cn)  打开就是教程页面，还不错
 
-[TopBook效率推荐合集](https://mp.weixin.qq.com/s/wnA7NFz3gxb5vtX_m6wykA)  
+[TopBook效率推荐合集](https://mp.weixin.qq.com/s/wnA7NFz3gxb5vtX_m6wykA)  没事找点小工具玩
 
 <br>
 
@@ -53,6 +53,9 @@
 [薄冰英语语法](https://oldwestenglish.github.io/grammar/#/)  ^_^超全面的英语语法，网页很优雅
 
 [I WANT TO LEARN JAPANESE!](https://www.tofugu.com/learn-japanese/)  
+
+[hexo中文指南](https://hexo.fluid-dev.com/docs/guide/#关于指南)
+[]()
 
 
 
