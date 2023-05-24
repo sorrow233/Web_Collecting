@@ -14,12 +14,21 @@
 
 [前段教学合集，和上面的教程搭配使用](https://github.com/cucygh/fe-material) 
 
-
 [编程书籍推荐Web](https://javaguide.cn/books/cs-basics.html#操作系统)  
 
 [IT项目网](https://www.itprojects.cn/hardware)  
 
 [TopBook效率推荐合集](https://mp.weixin.qq.com/s/wnA7NFz3gxb5vtX_m6wykA)  
+
+[Shell for Mac](https://www.renfei.org/blog/mac-os-x-terminal-101.html) 
+
+[]() 
+
+[]() 
+
+[]() 
+
+
 
 <br>
 
@@ -37,7 +46,9 @@
 
 [算法教程](https://github.com/krahets/hello-algo)  
 
-[]()  
+[]() 
+[]() 
+
 
 <br>
 
